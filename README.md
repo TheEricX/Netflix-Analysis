@@ -7,3 +7,7 @@
 
 ## Data
 Data from github https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/blob/main/netflix_titles.csv
+
+## Resullt
+Dashboard was created by Tableau
+![enter image description here](https://raw.githubusercontent.com/TheEricX/Netflix-Analysis/main/Netflix.png)
